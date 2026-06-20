@@ -16,6 +16,15 @@ Here are the dynamics generated during the target formulation process:
 ## How to Run
 Simply copy the code inside `bipropagation_demo.py` and run it in Google Colab or any local PyTorch environment.
 
-## Citation
-If you use this work in your research, please cite our official paper:
-`B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation...", Neurocomputing, 2026.`
+
+## Citation / Status
+This repository contains the official code for a manuscript currently under review in the *Neurocomputing* journal (Elsevier). 
+
+```text
+B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation Network Initialization," 
+Submitted to Neurocomputing, 2026.## Citation / Status
+This repository contains the official code for a manuscript currently under review in the *Neurocomputing* journal (Elsevier). 
+
+```text
+B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation Network Initialization," 
+Submitted to Neurocomputing, 2026.
