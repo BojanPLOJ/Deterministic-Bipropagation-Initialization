@@ -25,3 +25,7 @@ This repository contains the official code for a manuscript currently under revi
 ```text
 B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation Network Initialization," 
 Submitted to Neurocomputing, 2026.
+
+## 🚀 Live Interactive Demo
+You can test the algorithm and visualize the space linearization in real-time directly in your browser:
+[Open Hugging Face Spaces Demo https://huggingface.co/spaces/BojanPLOJ/Deterministic-Bipropagation-Demo/tree/main]
