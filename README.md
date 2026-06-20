@@ -28,4 +28,4 @@ Submitted to Neurocomputing, 2026.
 
 ## 🚀 Live Interactive Demo
 You can test the algorithm and visualize the space linearization in real-time directly in your browser:
-[Open Hugging Face Spaces Demo https://huggingface.co/spaces/BojanPLOJ/Deterministic-Bipropagation-Demo/tree/main]
+[https://huggingface.co/spaces/BojanPLOJ/Deterministic-Bipropagation-Demo/tree/main]
