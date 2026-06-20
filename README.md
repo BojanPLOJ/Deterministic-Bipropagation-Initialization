@@ -20,10 +20,7 @@ Simply copy the code inside `bipropagation_demo.py` and run it in Google Colab o
 ## Citation / Status
 This repository contains the official code for a manuscript currently under review in the *Neurocomputing* journal (Elsevier). 
 
-```text
-B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation Network Initialization," 
-Submitted to Neurocomputing, 2026.## Citation / Status
-This repository contains the official code for a manuscript currently under review in the *Neurocomputing* journal (Elsevier). 
+
 
 ```text
 B. Ploj, "A Deterministic Multi-Signal Case of Bipropagation Network Initialization," 
